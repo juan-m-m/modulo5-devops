@@ -1,1 +1,2 @@
 first line featureC
+second line featureC
